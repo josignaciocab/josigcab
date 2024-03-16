@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josigcab
+- 👋 Hi, I’m @josignaciocab
 - 👀 I’m interested in FrontEnd and Automation technologies
 - 🌱 I’m currently learning React and for Automation Playwright with multiple languages
 - 💞️ I’m looking to collaborate with anyone that want to learn more about QA Automation
