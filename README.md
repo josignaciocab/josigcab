@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and for Automation Playwright with multiple languages
 - 💞️ I’m looking to collaborate with anyone that want to learn more about QA Automation
 - 📫 How to reach me:
-  - https://www.linkedin.com/in/jose-ignacio-cabrera-bustamante/
+  - https://www.linkedin.com/in/josignaciocab/
 
 <!---
 josigcab/josigcab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
